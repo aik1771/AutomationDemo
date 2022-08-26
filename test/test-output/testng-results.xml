@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-26T21:55:50Z" name="Default suite" finished-at="2022-08-26T21:56:04Z" duration-ms="14144">
+    <groups>
+    </groups>
+    <test started-at="2022-08-26T21:55:50Z" name="Default test" finished-at="2022-08-26T21:56:04Z" duration-ms="14144">
+      <class name="automaion.test.Question2">
+        <test-method is-config="true" signature="startBrowserAndOpenURL()[pri:0, instance:automaion.test.Question2@46d59067]" started-at="2022-08-26T17:55:42Z" name="startBrowserAndOpenURL" finished-at="2022-08-26T17:55:50Z" duration-ms="8451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowserAndOpenURL -->
+        <test-method signature="CanUserLogin()[pri:1, instance:automaion.test.Question2@46d59067]" started-at="2022-08-26T17:55:50Z" name="CanUserLogin" finished-at="2022-08-26T17:55:55Z" duration-ms="5498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanUserLogin -->
+        <test-method signature="CanUSerAddToCard()[pri:2, instance:automaion.test.Question2@46d59067]" started-at="2022-08-26T17:55:55Z" name="CanUSerAddToCard" finished-at="2022-08-26T17:56:04Z" duration-ms="8145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanUSerAddToCard -->
+        <test-method signature="CanUSerCompleteCheckoutInformation()[pri:3, instance:automaion.test.Question2@46d59067]" started-at="2022-08-26T17:56:04Z" name="CanUSerCompleteCheckoutInformation" finished-at="2022-08-26T17:56:04Z" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanUSerCompleteCheckoutInformation -->
+        <test-method signature="ConfirmSuccessfullOrdertIsCreated()[pri:4, instance:automaion.test.Question2@46d59067]" started-at="2022-08-26T17:56:04Z" name="ConfirmSuccessfullOrdertIsCreated" finished-at="2022-08-26T17:56:04Z" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmSuccessfullOrdertIsCreated -->
+        <test-method is-config="true" signature="stopScript()[pri:0, instance:automaion.test.Question2@46d59067]" started-at="2022-08-26T17:56:04Z" name="stopScript" finished-at="2022-08-26T17:56:04Z" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopScript -->
+      </class> <!-- automaion.test.Question2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
